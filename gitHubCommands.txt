@@ -1,0 +1,6 @@
+git init
+git add . 
+git commit -a -m "gdcyhgd dhgd"
+add remote //take the url from git
+name remote
+git push (name of remote) (name of branch)
